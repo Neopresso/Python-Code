@@ -1,4 +1,3 @@
 # Python-Code
-Python code snippets for random stuff, distributing is currently NOT allowed.
-I will first need to make some original stuff, then I can obtain a license for legally allowing distribution.
-Until then, please wait. Thanks.
+Python code snippets for random stuff, redistributing is allowed, under the condition of using it along with the license provided in the master branch.
+
