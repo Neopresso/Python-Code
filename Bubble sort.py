@@ -21,5 +21,3 @@ arr = [64, 34, 111, 95, 22, 11, 90]
 bubble_sorter(arr)
 
 print(arr)
-            
-            
